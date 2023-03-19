@@ -1,0 +1,10 @@
+name = Webform HTML Textarea
+description = Allows users to submit Webform textarea's with HTML in them. 
+
+backdrop = 1.x
+type = module
+package = Webform
+dependencies[] = webform
+
+//translated from Drupal by Onyx
+
